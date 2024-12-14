@@ -1,0 +1,8 @@
+PyPDF2
+pdfplumber
+python-docx
+pytesseract
+Pillow
+fitz
+pytest
+PyMuPDF
